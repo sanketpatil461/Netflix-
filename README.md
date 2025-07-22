@@ -1,4 +1,4 @@
-[Netflix Repo](https://github.com/sanketpatil461/Netflix-)
+[Github Repo](https://github.com/sanketpatil461/Netflix-)
 
 
 <div align="center">
